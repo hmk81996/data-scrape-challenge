@@ -39,3 +39,5 @@ Deliverable 2 required the use of Pandas functions to answer the following quest
   - Visually estimate the result by plotting the daily minimum temperature.
     
     ![bar chart of sorted daily minimum temperatures on Mars](images/min_daily_temp.png)
+
+Finally, I exported the mars_df DataFrame to a CSV file. 
