@@ -1,5 +1,5 @@
-# data-scrape-challenge
-Data Analytics Course Module 11
+# mars-data-analysis
+Data-scraping and Analysis - Data Analytics Course Module 11
 
 # Task
 This web-scraping and data analysis task requires extracting information from two sources (a Mars news site and a Mars temperature data site) and creating two delivarables. The first deliverable will scrape titles and preview text from the news site while the second will scrape and analyze weather data from a table on the data site.
